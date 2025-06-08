@@ -8,6 +8,12 @@ Aqui você encontrará exemplos práticos do uso da memória Stack e Heap no .NE
 - ✅ Exemplos simples sobre alocação na **Stack**
 - ✅ Exemplos com objetos alocados na **Heap**
 
+## 🧭 Diagrama de Apoio
+
+Para facilitar a visualização dos conceitos apresentados, você pode consultar o diagrama criado no Draw.io:
+
+👉 [Visualizar Diagrama Stack vs Heap](https://drive.google.com/file/d/14wuLaR3Czmnk0cLwXu7rpGFu9X6si27L/view?usp=sharing)
+
 
 ## 📖 Artigo relacionado
 
